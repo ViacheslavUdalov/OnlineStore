@@ -1,0 +1,15 @@
+C:\Production\OnlineStore\OnlineStoreSLN\Infrastructure\bin\Debug\net7.0\Infrastructure.deps.json
+C:\Production\OnlineStore\OnlineStoreSLN\Infrastructure\bin\Debug\net7.0\Infrastructure.dll
+C:\Production\OnlineStore\OnlineStoreSLN\Infrastructure\bin\Debug\net7.0\Infrastructure.pdb
+C:\Production\OnlineStore\OnlineStoreSLN\Infrastructure\bin\Debug\net7.0\Core.dll
+C:\Production\OnlineStore\OnlineStoreSLN\Infrastructure\bin\Debug\net7.0\Core.pdb
+C:\Production\OnlineStore\OnlineStoreSLN\Infrastructure\obj\Debug\net7.0\Infrastructure.csproj.AssemblyReference.cache
+C:\Production\OnlineStore\OnlineStoreSLN\Infrastructure\obj\Debug\net7.0\Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Production\OnlineStore\OnlineStoreSLN\Infrastructure\obj\Debug\net7.0\Infrastructure.AssemblyInfoInputs.cache
+C:\Production\OnlineStore\OnlineStoreSLN\Infrastructure\obj\Debug\net7.0\Infrastructure.AssemblyInfo.cs
+C:\Production\OnlineStore\OnlineStoreSLN\Infrastructure\obj\Debug\net7.0\Infrastructure.csproj.CoreCompileInputs.cache
+C:\Production\OnlineStore\OnlineStoreSLN\Infrastructure\obj\Debug\net7.0\Infrastructure.csproj.CopyComplete
+C:\Production\OnlineStore\OnlineStoreSLN\Infrastructure\obj\Debug\net7.0\Infrastructure.dll
+C:\Production\OnlineStore\OnlineStoreSLN\Infrastructure\obj\Debug\net7.0\refint\Infrastructure.dll
+C:\Production\OnlineStore\OnlineStoreSLN\Infrastructure\obj\Debug\net7.0\Infrastructure.pdb
+C:\Production\OnlineStore\OnlineStoreSLN\Infrastructure\obj\Debug\net7.0\ref\Infrastructure.dll
