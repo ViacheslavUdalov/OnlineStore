@@ -1,11 +1,14 @@
 {
   "version": 2,
-  "dgSpecHash": "BgdxbpmnTZeVdfgOmtPlEjaI/U+Bcl3XPmzpzdR3BhiNSXZfsvoJ5dKKMVeCACm3YHUdfKYHJPX67hJ1T6iKrw==",
+  "dgSpecHash": "Q5hz8dEVPkl+P8pcFgOJtxSPxktdFqq9VWVQbPYV3hhXJCKPft6zaqvi/LgIS7Y14ucQfr6OFerECH7XMgi/Ww==",
   "success": true,
   "projectFilePath": "C:\\Production\\OnlineStore\\OnlineStoreSLN\\Api\\Api.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\slava\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
+    "C:\\Users\\slava\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.1\\automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",
     "C:\\Users\\slava\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\slava\\.nuget\\packages\\microsoft.aspnetcore.openapi\\7.0.5\\microsoft.aspnetcore.openapi.7.0.5.nupkg.sha512",
+    "C:\\Users\\slava\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
     "C:\\Users\\slava\\.nuget\\packages\\microsoft.data.sqlite.core\\7.0.14\\microsoft.data.sqlite.core.7.0.14.nupkg.sha512",
     "C:\\Users\\slava\\.nuget\\packages\\microsoft.entityframeworkcore\\7.0.14\\microsoft.entityframeworkcore.7.0.14.nupkg.sha512",
     "C:\\Users\\slava\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\7.0.14\\microsoft.entityframeworkcore.abstractions.7.0.14.nupkg.sha512",
