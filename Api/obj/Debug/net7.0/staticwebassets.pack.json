@@ -1,76 +1,76 @@
 {
   "Files": [
     {
-      "Id": "C:\\Production\\OnlineStore\\OnlineStoreSLN\\Api\\wwwroot\\products\\boot-ang1.png",
-      "PackagePath": "staticwebassets\\products\\boot-ang1.png"
+      "Id": "C:\\Production\\OnlineStore\\OnlineStoreSLN\\Api\\wwwroot\\images\\products\\boot-ang1.png",
+      "PackagePath": "staticwebassets\\images\\products\\boot-ang1.png"
     },
     {
-      "Id": "C:\\Production\\OnlineStore\\OnlineStoreSLN\\Api\\wwwroot\\products\\boot-ang2.png",
-      "PackagePath": "staticwebassets\\products\\boot-ang2.png"
+      "Id": "C:\\Production\\OnlineStore\\OnlineStoreSLN\\Api\\wwwroot\\images\\products\\boot-ang2.png",
+      "PackagePath": "staticwebassets\\images\\products\\boot-ang2.png"
     },
     {
-      "Id": "C:\\Production\\OnlineStore\\OnlineStoreSLN\\Api\\wwwroot\\products\\boot-core1.png",
-      "PackagePath": "staticwebassets\\products\\boot-core1.png"
+      "Id": "C:\\Production\\OnlineStore\\OnlineStoreSLN\\Api\\wwwroot\\images\\products\\boot-core1.png",
+      "PackagePath": "staticwebassets\\images\\products\\boot-core1.png"
     },
     {
-      "Id": "C:\\Production\\OnlineStore\\OnlineStoreSLN\\Api\\wwwroot\\products\\boot-core2.png",
-      "PackagePath": "staticwebassets\\products\\boot-core2.png"
+      "Id": "C:\\Production\\OnlineStore\\OnlineStoreSLN\\Api\\wwwroot\\images\\products\\boot-core2.png",
+      "PackagePath": "staticwebassets\\images\\products\\boot-core2.png"
     },
     {
-      "Id": "C:\\Production\\OnlineStore\\OnlineStoreSLN\\Api\\wwwroot\\products\\boot-redis1.png",
-      "PackagePath": "staticwebassets\\products\\boot-redis1.png"
+      "Id": "C:\\Production\\OnlineStore\\OnlineStoreSLN\\Api\\wwwroot\\images\\products\\boot-redis1.png",
+      "PackagePath": "staticwebassets\\images\\products\\boot-redis1.png"
     },
     {
-      "Id": "C:\\Production\\OnlineStore\\OnlineStoreSLN\\Api\\wwwroot\\products\\glove-code1.png",
-      "PackagePath": "staticwebassets\\products\\glove-code1.png"
+      "Id": "C:\\Production\\OnlineStore\\OnlineStoreSLN\\Api\\wwwroot\\images\\products\\glove-code1.png",
+      "PackagePath": "staticwebassets\\images\\products\\glove-code1.png"
     },
     {
-      "Id": "C:\\Production\\OnlineStore\\OnlineStoreSLN\\Api\\wwwroot\\products\\glove-code2.png",
-      "PackagePath": "staticwebassets\\products\\glove-code2.png"
+      "Id": "C:\\Production\\OnlineStore\\OnlineStoreSLN\\Api\\wwwroot\\images\\products\\glove-code2.png",
+      "PackagePath": "staticwebassets\\images\\products\\glove-code2.png"
     },
     {
-      "Id": "C:\\Production\\OnlineStore\\OnlineStoreSLN\\Api\\wwwroot\\products\\glove-react1.png",
-      "PackagePath": "staticwebassets\\products\\glove-react1.png"
+      "Id": "C:\\Production\\OnlineStore\\OnlineStoreSLN\\Api\\wwwroot\\images\\products\\glove-react1.png",
+      "PackagePath": "staticwebassets\\images\\products\\glove-react1.png"
     },
     {
-      "Id": "C:\\Production\\OnlineStore\\OnlineStoreSLN\\Api\\wwwroot\\products\\glove-react2.png",
-      "PackagePath": "staticwebassets\\products\\glove-react2.png"
+      "Id": "C:\\Production\\OnlineStore\\OnlineStoreSLN\\Api\\wwwroot\\images\\products\\glove-react2.png",
+      "PackagePath": "staticwebassets\\images\\products\\glove-react2.png"
     },
     {
-      "Id": "C:\\Production\\OnlineStore\\OnlineStoreSLN\\Api\\wwwroot\\products\\hat-core1.png",
-      "PackagePath": "staticwebassets\\products\\hat-core1.png"
+      "Id": "C:\\Production\\OnlineStore\\OnlineStoreSLN\\Api\\wwwroot\\images\\products\\hat-core1.png",
+      "PackagePath": "staticwebassets\\images\\products\\hat-core1.png"
     },
     {
-      "Id": "C:\\Production\\OnlineStore\\OnlineStoreSLN\\Api\\wwwroot\\products\\hat-react1.png",
-      "PackagePath": "staticwebassets\\products\\hat-react1.png"
+      "Id": "C:\\Production\\OnlineStore\\OnlineStoreSLN\\Api\\wwwroot\\images\\products\\hat-react1.png",
+      "PackagePath": "staticwebassets\\images\\products\\hat-react1.png"
     },
     {
-      "Id": "C:\\Production\\OnlineStore\\OnlineStoreSLN\\Api\\wwwroot\\products\\hat-react2.png",
-      "PackagePath": "staticwebassets\\products\\hat-react2.png"
+      "Id": "C:\\Production\\OnlineStore\\OnlineStoreSLN\\Api\\wwwroot\\images\\products\\hat-react2.png",
+      "PackagePath": "staticwebassets\\images\\products\\hat-react2.png"
     },
     {
-      "Id": "C:\\Production\\OnlineStore\\OnlineStoreSLN\\Api\\wwwroot\\products\\sb-ang1.png",
-      "PackagePath": "staticwebassets\\products\\sb-ang1.png"
+      "Id": "C:\\Production\\OnlineStore\\OnlineStoreSLN\\Api\\wwwroot\\images\\products\\sb-ang1.png",
+      "PackagePath": "staticwebassets\\images\\products\\sb-ang1.png"
     },
     {
-      "Id": "C:\\Production\\OnlineStore\\OnlineStoreSLN\\Api\\wwwroot\\products\\sb-ang2.png",
-      "PackagePath": "staticwebassets\\products\\sb-ang2.png"
+      "Id": "C:\\Production\\OnlineStore\\OnlineStoreSLN\\Api\\wwwroot\\images\\products\\sb-ang2.png",
+      "PackagePath": "staticwebassets\\images\\products\\sb-ang2.png"
     },
     {
-      "Id": "C:\\Production\\OnlineStore\\OnlineStoreSLN\\Api\\wwwroot\\products\\sb-core1.png",
-      "PackagePath": "staticwebassets\\products\\sb-core1.png"
+      "Id": "C:\\Production\\OnlineStore\\OnlineStoreSLN\\Api\\wwwroot\\images\\products\\sb-core1.png",
+      "PackagePath": "staticwebassets\\images\\products\\sb-core1.png"
     },
     {
-      "Id": "C:\\Production\\OnlineStore\\OnlineStoreSLN\\Api\\wwwroot\\products\\sb-core2.png",
-      "PackagePath": "staticwebassets\\products\\sb-core2.png"
+      "Id": "C:\\Production\\OnlineStore\\OnlineStoreSLN\\Api\\wwwroot\\images\\products\\sb-core2.png",
+      "PackagePath": "staticwebassets\\images\\products\\sb-core2.png"
     },
     {
-      "Id": "C:\\Production\\OnlineStore\\OnlineStoreSLN\\Api\\wwwroot\\products\\sb-react1.png",
-      "PackagePath": "staticwebassets\\products\\sb-react1.png"
+      "Id": "C:\\Production\\OnlineStore\\OnlineStoreSLN\\Api\\wwwroot\\images\\products\\sb-react1.png",
+      "PackagePath": "staticwebassets\\images\\products\\sb-react1.png"
     },
     {
-      "Id": "C:\\Production\\OnlineStore\\OnlineStoreSLN\\Api\\wwwroot\\products\\sb-ts1.png",
-      "PackagePath": "staticwebassets\\products\\sb-ts1.png"
+      "Id": "C:\\Production\\OnlineStore\\OnlineStoreSLN\\Api\\wwwroot\\images\\products\\sb-ts1.png",
+      "PackagePath": "staticwebassets\\images\\products\\sb-ts1.png"
     },
     {
       "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.Api.Microsoft.AspNetCore.StaticWebAssets.props",
