@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "1rHg3/BuldVcVz9bLUQUYPjPHq0L6Xwv2HIJW7tlWW17AGF2PxspfIl7zGs+2tfAf6akCZ5HpYPvbh5mziYiVg==",
+  "dgSpecHash": "qx5QtinnYQGv/DngFg5wdT3suHuCAhYyV9Oo+9vg8GAqd9L35EQIxp5fyvYIXS9meVsf/5MfNFUxgSXigFgOVQ==",
   "success": true,
-  "projectFilePath": "C:\\Production\\OnlineStore\\OnlineStoreSLN\\Infrastructure\\Infrastructure.csproj",
+  "projectFilePath": "C:\\Production\\OnlineStore\\OnlineStoreSln\\Infrastructure\\Infrastructure.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\slava\\.nuget\\packages\\microsoft.data.sqlite.core\\7.0.14\\microsoft.data.sqlite.core.7.0.14.nupkg.sha512",
     "C:\\Users\\slava\\.nuget\\packages\\microsoft.entityframeworkcore\\7.0.14\\microsoft.entityframeworkcore.7.0.14.nupkg.sha512",

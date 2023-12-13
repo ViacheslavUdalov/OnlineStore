@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Production\\OnlineStore\\OnlineStoreSLN\\Core\\Core.csproj",
+      "projectUniqueName": "C:\\Production\\OnlineStore\\OnlineStoreSln\\Core\\Core.csproj",
       "projectName": "Core",
-      "projectPath": "C:\\Production\\OnlineStore\\OnlineStoreSLN\\Core\\Core.csproj",
+      "projectPath": "C:\\Production\\OnlineStore\\OnlineStoreSln\\Core\\Core.csproj",
       "packagesPath": "C:\\Users\\slava\\.nuget\\packages\\",
-      "outputPath": "C:\\Production\\OnlineStore\\OnlineStoreSLN\\Core\\obj\\",
+      "outputPath": "C:\\Production\\OnlineStore\\OnlineStoreSln\\Core\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\slava\\AppData\\Roaming\\NuGet\\NuGet.Config"

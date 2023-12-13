@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Q5hz8dEVPkl+P8pcFgOJtxSPxktdFqq9VWVQbPYV3hhXJCKPft6zaqvi/LgIS7Y14ucQfr6OFerECH7XMgi/Ww==",
+  "dgSpecHash": "IJnOxIld7ROtzb39jL18KwLr+K68JY/GUAM+kQsub+QEJhJsr/T+ASsawIfw0xWM81/aQ/OJ/jL4snSjmKmNjQ==",
   "success": true,
-  "projectFilePath": "C:\\Production\\OnlineStore\\OnlineStoreSLN\\Api\\Api.csproj",
+  "projectFilePath": "C:\\Production\\OnlineStore\\OnlineStoreSln\\Api\\Api.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\slava\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\slava\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.1\\automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",

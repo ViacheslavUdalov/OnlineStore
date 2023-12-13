@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "AnURRBcqFSrfXXQZuvdtfOutW3/fhQSoZZ/K/0D9YHslpw7yD3smCck3FPbclCHvdje5n1JjR/f2P2u91wWQOg==",
+  "dgSpecHash": "jj9vjFtLPeunqLfubGsPcSsiFb632ZRgrzHZqCy0rCZPI+ksgKY1AKJNmNEL38pCyfDSC38Y0GzYt47XsMk//w==",
   "success": true,
-  "projectFilePath": "C:\\Production\\OnlineStore\\OnlineStoreSLN\\Core\\Core.csproj",
+  "projectFilePath": "C:\\Production\\OnlineStore\\OnlineStoreSln\\Core\\Core.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

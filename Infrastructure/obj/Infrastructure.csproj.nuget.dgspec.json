@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Production\\OnlineStore\\OnlineStoreSLN\\Infrastructure\\Infrastructure.csproj": {}
+    "C:\\Production\\OnlineStore\\OnlineStoreSln\\Infrastructure\\Infrastructure.csproj": {}
   },
   "projects": {
-    "C:\\Production\\OnlineStore\\OnlineStoreSLN\\Core\\Core.csproj": {
+    "C:\\Production\\OnlineStore\\OnlineStoreSln\\Core\\Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Production\\OnlineStore\\OnlineStoreSLN\\Core\\Core.csproj",
+        "projectUniqueName": "C:\\Production\\OnlineStore\\OnlineStoreSln\\Core\\Core.csproj",
         "projectName": "Core",
-        "projectPath": "C:\\Production\\OnlineStore\\OnlineStoreSLN\\Core\\Core.csproj",
+        "projectPath": "C:\\Production\\OnlineStore\\OnlineStoreSln\\Core\\Core.csproj",
         "packagesPath": "C:\\Users\\slava\\.nuget\\packages\\",
-        "outputPath": "C:\\Production\\OnlineStore\\OnlineStoreSLN\\Core\\obj\\",
+        "outputPath": "C:\\Production\\OnlineStore\\OnlineStoreSln\\Core\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\slava\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -57,14 +57,14 @@
         }
       }
     },
-    "C:\\Production\\OnlineStore\\OnlineStoreSLN\\Infrastructure\\Infrastructure.csproj": {
+    "C:\\Production\\OnlineStore\\OnlineStoreSln\\Infrastructure\\Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Production\\OnlineStore\\OnlineStoreSLN\\Infrastructure\\Infrastructure.csproj",
+        "projectUniqueName": "C:\\Production\\OnlineStore\\OnlineStoreSln\\Infrastructure\\Infrastructure.csproj",
         "projectName": "Infrastructure",
-        "projectPath": "C:\\Production\\OnlineStore\\OnlineStoreSLN\\Infrastructure\\Infrastructure.csproj",
+        "projectPath": "C:\\Production\\OnlineStore\\OnlineStoreSln\\Infrastructure\\Infrastructure.csproj",
         "packagesPath": "C:\\Users\\slava\\.nuget\\packages\\",
-        "outputPath": "C:\\Production\\OnlineStore\\OnlineStoreSLN\\Infrastructure\\obj\\",
+        "outputPath": "C:\\Production\\OnlineStore\\OnlineStoreSln\\Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\slava\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -79,8 +79,8 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "C:\\Production\\OnlineStore\\OnlineStoreSLN\\Core\\Core.csproj": {
-                "projectPath": "C:\\Production\\OnlineStore\\OnlineStoreSLN\\Core\\Core.csproj"
+              "C:\\Production\\OnlineStore\\OnlineStoreSln\\Core\\Core.csproj": {
+                "projectPath": "C:\\Production\\OnlineStore\\OnlineStoreSln\\Core\\Core.csproj"
               }
             }
           }
