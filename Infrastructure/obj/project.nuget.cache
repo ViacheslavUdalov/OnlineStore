@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "qx5QtinnYQGv/DngFg5wdT3suHuCAhYyV9Oo+9vg8GAqd9L35EQIxp5fyvYIXS9meVsf/5MfNFUxgSXigFgOVQ==",
+  "dgSpecHash": "splXKAZ2Rer906YkE3sF2Bzqtuvy8X8wYhBMCz9D9vSPz7xomkGDSMhMDIJpeKe2ddy92HcJlBcCjVuC9DQIwA==",
   "success": true,
   "projectFilePath": "C:\\Production\\OnlineStore\\OnlineStoreSln\\Infrastructure\\Infrastructure.csproj",
   "expectedPackageFiles": [
@@ -21,10 +21,13 @@
     "C:\\Users\\slava\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\7.0.0\\microsoft.extensions.logging.abstractions.7.0.0.nupkg.sha512",
     "C:\\Users\\slava\\.nuget\\packages\\microsoft.extensions.options\\7.0.0\\microsoft.extensions.options.7.0.0.nupkg.sha512",
     "C:\\Users\\slava\\.nuget\\packages\\microsoft.extensions.primitives\\7.0.0\\microsoft.extensions.primitives.7.0.0.nupkg.sha512",
+    "C:\\Users\\slava\\.nuget\\packages\\pipelines.sockets.unofficial\\2.2.8\\pipelines.sockets.unofficial.2.2.8.nupkg.sha512",
     "C:\\Users\\slava\\.nuget\\packages\\sqlitepclraw.bundle_e_sqlite3\\2.1.4\\sqlitepclraw.bundle_e_sqlite3.2.1.4.nupkg.sha512",
     "C:\\Users\\slava\\.nuget\\packages\\sqlitepclraw.core\\2.1.4\\sqlitepclraw.core.2.1.4.nupkg.sha512",
     "C:\\Users\\slava\\.nuget\\packages\\sqlitepclraw.lib.e_sqlite3\\2.1.4\\sqlitepclraw.lib.e_sqlite3.2.1.4.nupkg.sha512",
     "C:\\Users\\slava\\.nuget\\packages\\sqlitepclraw.provider.e_sqlite3\\2.1.4\\sqlitepclraw.provider.e_sqlite3.2.1.4.nupkg.sha512",
+    "C:\\Users\\slava\\.nuget\\packages\\stackexchange.redis\\2.7.10\\stackexchange.redis.2.7.10.nupkg.sha512",
+    "C:\\Users\\slava\\.nuget\\packages\\system.io.pipelines\\5.0.1\\system.io.pipelines.5.0.1.nupkg.sha512",
     "C:\\Users\\slava\\.nuget\\packages\\system.memory\\4.5.3\\system.memory.4.5.3.nupkg.sha512",
     "C:\\Users\\slava\\.nuget\\packages\\system.text.encodings.web\\7.0.0\\system.text.encodings.web.7.0.0.nupkg.sha512",
     "C:\\Users\\slava\\.nuget\\packages\\system.text.json\\7.0.0\\system.text.json.7.0.0.nupkg.sha512"

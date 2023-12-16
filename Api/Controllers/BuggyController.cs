@@ -24,7 +24,7 @@ public class BuggyController : BaseApiController
         return Ok();
     }
     [HttpGet("servererror")]
-    public ActionResult GetNotServerError()
+    public ActionResult GetServerError()
     {
         var thing = _context.Products.Find(42);
         var thingToReturn = thing.ToString();

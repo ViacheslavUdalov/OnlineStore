@@ -12,7 +12,8 @@ import {ShopParams} from "../shared/models/shopParams";
   styleUrls: ['./shop.component.scss']
 })
 export class ShopComponent implements OnInit{
-  @ViewChild("search", {static: true}) searchTerm: ElementRef;
+  //static: false означает что элемент появляется после того как products доступны
+  @ViewChild("search", {static: false}) searchTerm: ElementRef;
   products : IProduct[]
   brands: IBrand[]
   types: IType[];
@@ -73,7 +74,7 @@ this.totalCount = response.count;
   }
   onPageChanged(event: any) {
     if (this.shopParams.pageNumber !== event) {
-      this.shopParams.pageNumber = event.page;
+      this.shopParams.pageNumber = event;
       this.getProducts();
     }
   }
