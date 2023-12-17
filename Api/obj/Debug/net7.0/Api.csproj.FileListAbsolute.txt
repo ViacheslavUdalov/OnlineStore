@@ -74,3 +74,5 @@ C:\Production\OnlineStore\OnlineStoreSLN\Api\bin\Debug\net7.0\Core.pdb
 C:\Production\OnlineStore\OnlineStoreSLN\Api\bin\Debug\net7.0\AutoMapper.dll
 C:\Production\OnlineStore\OnlineStoreSLN\Api\bin\Debug\net7.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
 C:\Production\OnlineStore\OnlineStoreSLN\Api\bin\Debug\net7.0\Api.staticwebassets.runtime.json
+C:\Production\OnlineStore\OnlineStoreSln\Api\bin\Debug\net7.0\Pipelines.Sockets.Unofficial.dll
+C:\Production\OnlineStore\OnlineStoreSln\Api\bin\Debug\net7.0\StackExchange.Redis.dll

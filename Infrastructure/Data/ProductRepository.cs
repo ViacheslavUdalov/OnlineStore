@@ -15,9 +15,15 @@ public class ProductRepository : IProductRepository
 
     public async Task<Product> GetProductByIdAsync(int id)
     {
-        return await _context.Products.Include(p => p.ProductType).Include(p => p.ProductBrand)
+        var product =  await _context.Products
+            .Include(p => p.ProductType).Include(p => p.ProductBrand)
             .FirstOrDefaultAsync(p => p.Id == id);
-           ;
+        if (product == null)
+        {
+            throw new InvalidOperationException($"Product with ID {id} does not exist.");
+        }
+
+        return product;
     }
 
     public async Task<IReadOnlyList<Product>> GetProductsAsync()
