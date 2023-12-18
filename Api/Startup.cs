@@ -3,6 +3,7 @@ using Api.Helpers;
 using Api.Middleware;
 using Core.Interfaces;
 using Infrastructure.Data;
+using Infrastructure.Identity;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.EntityFrameworkCore;
@@ -29,6 +30,10 @@ namespace API
             services.AddControllers();
             services.AddDbContext<StoreContext>(x =>
                 x.UseSqlite(_configuration.GetConnectionString("DefaultConnection")));
+            services.AddDbContext<AppIdentityDbContext>(x =>
+            {
+                x.UseSqlite(_configuration.GetConnectionString("IdentityConnection"));
+            });
             // обязательно нужно кроме ConnectionMultiplexer внедрить и его интерфейс, иначе будет выдавать ошибку
             // Unhandled exception. System.AggregateException: Some services are not able to be constructed (Error
             // while validating the service descriptor 'ServiceType: Core.Interfaces.IBasketRepository Lifetime:
@@ -41,6 +46,7 @@ namespace API
                 return ConnectionMultiplexer.Connect(configuration);
             });
             services.AddApplicationServices();
+            services.AddIdentityService(_configuration);
             services.AddSwaggerDocumentation();
             services.AddCors(opt =>
                 {
@@ -61,6 +67,7 @@ namespace API
             app.UseRouting();
             app.UseStaticFiles();
             app.UseCors("CorsPolicy");
+            app.UseAuthentication();
             app.UseAuthorization();
             app.UseSwaggerDocumentation();
             app.UseEndpoints(endpoints => { endpoints.MapControllers(); });
