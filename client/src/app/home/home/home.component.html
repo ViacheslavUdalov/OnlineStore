@@ -1,35 +1,27 @@
-<div *ngIf="images && images.length > 0" class="carousel-container">
+<div class="main">
+  <div class="container">
+  <h1 class="gallery-header">Галерея</h1>
+  <app-slider [images]="images" ></app-slider>
+</div>
+  <div class="d-flex flex-column justify-content-center align-items-center">
+    <h2 style="margin-bottom: 25px; margin-top: 250px;">Мы производим</h2>
+    <div class="row mb-5 d-flex align-items-center justify-content-center">
+      <div class="col-3 d-flex flex-column justify-content-center align-items-center"><strong>Бетон</strong><br>
+        <img src="./assets/images/news4.jpg" alt="плитка" class="images-product"></div>
+      <div class="col-3 d-flex flex-column justify-content-center align-items-center"><strong>Плитку</strong><br>
+        <img src="./assets/images/plitka.jpg" alt="плитка" class="images-product"></div>
 
-  <img *ngFor="let image of images; let i = index"
-       [src]="image.imageSrc"
-       [alt]="image.imageALT"
-       [ngClass]="{'image-active': selectedIndex === i}"
-  class="fade">
+      <div class="col-3 d-flex flex-column justify-content-center align-items-center"><strong>Бордюры</strong><br>
+        <img src="./assets/images/bordur_dorozhny.jpg" alt="плитка" class="images-product"></div>
+      <div class="col-3 d-flex flex-column justify-content-center align-items-center"><strong>Брусчатка</strong><br>
+        <img src="./assets/images/bruschatka-ot-proizvoditelja.jpg" alt="плитка" class="images-product"></div>
 
-  <div class="carousel-dot-container" *ngIf="indicators">
-
-    <span class="dot"
-          *ngFor="let dot of images; let i = index"
-          [ngClass]="{'active': selectedIndex === i}"
-    (click)="selectImage(i)"></span>
-
+    </div>
   </div>
+  <div class="row">
+    <div class="maps">
+<div id="map"  style="margin: auto; width: 60%; height: 600px" #map></div>
+    </div>
+  </div>
+  <app-footer></app-footer>
 </div>
-<div class="btn-carousel btn-prev"  (click)="onPrevClick()">
-<!--  <i class="fas fa-arrow-circle-left icon-carousel icon-prev"></i>-->
-  <span class="material-symbols-outlined icon-carousel icon-prev">
-arrow_back
-</span>
-</div>
-<div class="btn-carousel btn-next" (click)="onNextClick()">
-  <!--  <i class="fas fa-arrow-circle-left icon-carousel icon-prev"></i>-->
-  <span class="material-symbols-outlined icon-next icon-carousel">
-  arrow_forward
-  </span>
-</div>
-
-<!--<section class="featured">-->
-<!--  <div class="d-flex justify-content-center pt-4">-->
-<!--    <h1>Welcome To Shop</h1>-->
-<!--  </div>-->
-<!--</section>-->

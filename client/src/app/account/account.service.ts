@@ -4,6 +4,8 @@ import {BehaviorSubject, of, ReplaySubject} from "rxjs";
 import {IUser} from "../shared/models/User";
 import {map} from "rxjs/operators";
 import {Router} from "@angular/router";
+import {IAddress} from "../shared/models/address";
+import {add} from "ngx-bootstrap/chronos";
 
 @Injectable({
   providedIn: 'root'
@@ -56,5 +58,11 @@ export class AccountService {
         }
       })
     )
+  }
+  getUserAddress() {
+    return this.http.get<IAddress>(this.baseURL + 'account/address');
+  }
+  updateUserAddress(address: IAddress) {
+    return this.http.put<IAddress>(this.baseURL + 'account/address', address);
   }
 }

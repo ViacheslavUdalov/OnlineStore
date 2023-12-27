@@ -1,13 +1,20 @@
-import {CUSTOM_ELEMENTS_SCHEMA, NgModule, NO_ERRORS_SCHEMA} from '@angular/core';
+import {NgModule} from '@angular/core';
 import { CommonModule } from '@angular/common';
 import { PagingHeaderComponent } from './components/paging-header/paging-header.component';
 import { PagerComponent } from './components/pager/pager.component';
 import {CarouselModule} from "ngx-bootstrap/carousel";
 import {PaginationModule} from "ngx-bootstrap/pagination";
 import { OrderTotalsComponent } from './order-totals/order-totals.component';
-import {ReactiveFormsModule} from "@angular/forms";
+import {FormsModule, ReactiveFormsModule} from "@angular/forms";
 import {BsDropdownModule} from "ngx-bootstrap/dropdown";
 import { TextInputComponent } from './components/text-input/text-input.component';
+import {CdkStepperModule} from "@angular/cdk/stepper";
+import { StepperComponent } from './components/stepper/stepper.component';
+import { BasketSummaryComponent } from './components/basket-summary/basket-summary.component';
+import {RouterLink} from "@angular/router";
+import { SliderComponent } from './components/slider/slider.component';
+import {HammerModule} from "@angular/platform-browser";
+import { FooterComponent } from './components/footer/footer.component';
 
 
 
@@ -16,14 +23,22 @@ import { TextInputComponent } from './components/text-input/text-input.component
     PagingHeaderComponent,
     PagerComponent,
     OrderTotalsComponent,
-    TextInputComponent
+    TextInputComponent,
+    StepperComponent,
+    BasketSummaryComponent,
+    SliderComponent,
+    FooterComponent
   ],
   imports: [
     CommonModule,
     PaginationModule.forRoot(),
     CarouselModule.forRoot(),
     ReactiveFormsModule,
-    BsDropdownModule.forRoot()
+    BsDropdownModule.forRoot(),
+    CdkStepperModule,
+    RouterLink,
+    HammerModule,
+    FormsModule
   ],
   exports: [PaginationModule,
     PagingHeaderComponent,
@@ -32,7 +47,13 @@ import { TextInputComponent } from './components/text-input/text-input.component
     OrderTotalsComponent,
     ReactiveFormsModule,
     BsDropdownModule,
-    TextInputComponent
+    TextInputComponent,
+    CdkStepperModule,
+    StepperComponent,
+    BasketSummaryComponent,
+    SliderComponent,
+    FooterComponent,
+    FormsModule
   ]
 })
 export class SharedModule { }

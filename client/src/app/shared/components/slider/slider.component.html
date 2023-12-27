@@ -1,0 +1,13 @@
+  <div class="slider-container" (mousedown)="onUserInteraction()" (touchstart)="onUserInteraction()">
+    <div class="slider-item" *ngFor="let image of images; let i = index"
+         [ngClass]="{
+  'selected' : i === selectedIndex,
+  'prev' : i === selectedIndex - 1,
+  'next' : i === selectedIndex + 1,
+  'hideLeft' : i < selectedIndex - 1,
+  'hideRight' : i > selectedIndex + 1,
+   }">
+      <img src="{{image.imageSrc}}" alt="{{image.imageALT}}" class="slider-img" (panright)="onPrevClick(i)" (panleft)="onNextClick(i)">
+    </div>
+  </div>
+
